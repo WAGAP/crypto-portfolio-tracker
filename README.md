@@ -1,4 +1,3 @@
-code
 Crypto Portfolio Tracker
 This project tracks cryptocurrency portfolio performance.
 Features:
