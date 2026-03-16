@@ -1,4 +1,4 @@
-Crypto Portfolio Tracker
+CoinGecko API/Crypto API
 A simple tool that tracks cryptocurrency portfolio performance.
 
 --Features
